@@ -1,4 +1,4 @@
-# electrophysio_signal_analysis
+# electrophysio_functional_connectivity_analysis
 Functional Connectivity Analysis
 by performing Correlation, Coherence, Granger Causality 
 
